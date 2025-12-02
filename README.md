@@ -15,4 +15,8 @@ Data cleaning, transformation, wrangling, missing value treatment, feature struc
 Identifying growth drivers, customer segmentation, sales performance analysis
 ### Additional Skills	ETL, A/B Insights, Problem-Solving, Documentation	                             
 Turning business problems into data questions and translating insights into actions
+## 📈 Professional Focus
+### Insight generation for business strategy, marketing, and operations
+### Development of scalable data products and visual analytics
+### Storytelling with data to influence stakeholders and decision-makers
 
